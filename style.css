@@ -1,0 +1,1832 @@
+  body {
+  background: #191919;
+}
+
+.item {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -1em;
+  border-radius: 20px;
+}
+
+#all{
+    visibility: hidden;
+}
+
+#btn {
+    padding: 10px ;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+    border: 0px solid;
+    border-radius: 2px;
+    color:white;
+    width: 200px;
+  }
+
+.item-1 {
+  transform-origin: 0% 0%;
+  transform: rotate(3.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-2 {
+  transform-origin: 0% 0%;
+  transform: rotate(7.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.65s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-3 {
+  transform-origin: 0% 0%;
+  transform: rotate(10.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.4s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-4 {
+  transform-origin: 0% 0%;
+  transform: rotate(14.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.8s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-5 {
+  transform-origin: 0% 0%;
+  transform: rotate(18deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.3s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-6 {
+  transform-origin: 0% 0%;
+  transform: rotate(21.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.1s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-7 {
+  transform-origin: 0% 0%;
+  transform: rotate(25.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.4s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-8 {
+  transform-origin: 0% 0%;
+  transform: rotate(28.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.85s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-9 {
+  transform-origin: 0% 0%;
+  transform: rotate(32.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-10 {
+  transform-origin: 0% 0%;
+  transform: rotate(36deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.3s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-11 {
+  transform-origin: 0% 0%;
+  transform: rotate(39.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.55s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-12 {
+  transform-origin: 0% 0%;
+  transform: rotate(43.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.1s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-13 {
+  transform-origin: 0% 0%;
+  transform: rotate(46.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.6s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-14 {
+  transform-origin: 0% 0%;
+  transform: rotate(50.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-15 {
+  transform-origin: 0% 0%;
+  transform: rotate(54deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.25s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-16 {
+  transform-origin: 0% 0%;
+  transform: rotate(57.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-17 {
+  transform-origin: 0% 0%;
+  transform: rotate(61.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.6s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-18 {
+  transform-origin: 0% 0%;
+  transform: rotate(64.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.9s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-19 {
+  transform-origin: 0% 0%;
+  transform: rotate(68.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.8s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-20 {
+  transform-origin: 0% 0%;
+  transform: rotate(72deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.75s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-21 {
+  transform-origin: 0% 0%;
+  transform: rotate(75.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.4s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-22 {
+  transform-origin: 0% 0%;
+  transform: rotate(79.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-23 {
+  transform-origin: 0% 0%;
+  transform: rotate(82.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.9s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-24 {
+  transform-origin: 0% 0%;
+  transform: rotate(86.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-25 {
+  transform-origin: 0% 0%;
+  transform: rotate(90deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.95s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-26 {
+  transform-origin: 0% 0%;
+  transform: rotate(93.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-27 {
+  transform-origin: 0% 0%;
+  transform: rotate(97.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.95s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-28 {
+  transform-origin: 0% 0%;
+  transform: rotate(100.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-29 {
+  transform-origin: 0% 0%;
+  transform: rotate(104.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.2s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-30 {
+  transform-origin: 0% 0%;
+  transform: rotate(108deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.55s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-31 {
+  transform-origin: 0% 0%;
+  transform: rotate(111.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.4s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-32 {
+  transform-origin: 0% 0%;
+  transform: rotate(115.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.25s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-33 {
+  transform-origin: 0% 0%;
+  transform: rotate(118.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-34 {
+  transform-origin: 0% 0%;
+  transform: rotate(122.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.9s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-35 {
+  transform-origin: 0% 0%;
+  transform: rotate(126deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.7s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-36 {
+  transform-origin: 0% 0%;
+  transform: rotate(129.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.95s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-37 {
+  transform-origin: 0% 0%;
+  transform: rotate(133.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.25s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-38 {
+  transform-origin: 0% 0%;
+  transform: rotate(136.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.7s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-39 {
+  transform-origin: 0% 0%;
+  transform: rotate(140.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.65s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-40 {
+  transform-origin: 0% 0%;
+  transform: rotate(144deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.55s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-41 {
+  transform-origin: 0% 0%;
+  transform: rotate(147.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-42 {
+  transform-origin: 0% 0%;
+  transform: rotate(151.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.1s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-43 {
+  transform-origin: 0% 0%;
+  transform: rotate(154.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.1s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-44 {
+  transform-origin: 0% 0%;
+  transform: rotate(158.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.3s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-45 {
+  transform-origin: 0% 0%;
+  transform: rotate(162deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.75s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-46 {
+  transform-origin: 0% 0%;
+  transform: rotate(165.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-47 {
+  transform-origin: 0% 0%;
+  transform: rotate(169.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-48 {
+  transform-origin: 0% 0%;
+  transform: rotate(172.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.3s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-49 {
+  transform-origin: 0% 0%;
+  transform: rotate(176.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.6s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-50 {
+  transform-origin: 0% 0%;
+  transform: rotate(180deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.05s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-51 {
+  transform-origin: 0% 0%;
+  transform: rotate(183.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.25s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-52 {
+  transform-origin: 0% 0%;
+  transform: rotate(187.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.85s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-53 {
+  transform-origin: 0% 0%;
+  transform: rotate(190.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-54 {
+  transform-origin: 0% 0%;
+  transform: rotate(194.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-55 {
+  transform-origin: 0% 0%;
+  transform: rotate(198deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.9s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-56 {
+  transform-origin: 0% 0%;
+  transform: rotate(201.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.25s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-57 {
+  transform-origin: 0% 0%;
+  transform: rotate(205.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-58 {
+  transform-origin: 0% 0%;
+  transform: rotate(208.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-59 {
+  transform-origin: 0% 0%;
+  transform: rotate(212.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.9s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-60 {
+  transform-origin: 0% 0%;
+  transform: rotate(216deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-61 {
+  transform-origin: 0% 0%;
+  transform: rotate(219.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-62 {
+  transform-origin: 0% 0%;
+  transform: rotate(223.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.7s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-63 {
+  transform-origin: 0% 0%;
+  transform: rotate(226.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.4s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-64 {
+  transform-origin: 0% 0%;
+  transform: rotate(230.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.55s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-65 {
+  transform-origin: 0% 0%;
+  transform: rotate(234deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-66 {
+  transform-origin: 0% 0%;
+  transform: rotate(237.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-67 {
+  transform-origin: 0% 0%;
+  transform: rotate(241.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.25s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-68 {
+  transform-origin: 0% 0%;
+  transform: rotate(244.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.95s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-69 {
+  transform-origin: 0% 0%;
+  transform: rotate(248.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.3s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-70 {
+  transform-origin: 0% 0%;
+  transform: rotate(252deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.85s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-71 {
+  transform-origin: 0% 0%;
+  transform: rotate(255.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.3s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-72 {
+  transform-origin: 0% 0%;
+  transform: rotate(259.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.75s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-73 {
+  transform-origin: 0% 0%;
+  transform: rotate(262.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-74 {
+  transform-origin: 0% 0%;
+  transform: rotate(266.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.7s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-75 {
+  transform-origin: 0% 0%;
+  transform: rotate(270deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.05s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-76 {
+  transform-origin: 0% 0%;
+  transform: rotate(273.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-77 {
+  transform-origin: 0% 0%;
+  transform: rotate(277.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.4s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-78 {
+  transform-origin: 0% 0%;
+  transform: rotate(280.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.35s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-79 {
+  transform-origin: 0% 0%;
+  transform: rotate(284.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-80 {
+  transform-origin: 0% 0%;
+  transform: rotate(288deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.15s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-81 {
+  transform-origin: 0% 0%;
+  transform: rotate(291.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.5s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-82 {
+  transform-origin: 0% 0%;
+  transform: rotate(295.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.1s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-83 {
+  transform-origin: 0% 0%;
+  transform: rotate(298.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-84 {
+  transform-origin: 0% 0%;
+  transform: rotate(302.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.5s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-85 {
+  transform-origin: 0% 0%;
+  transform: rotate(306deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.5s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-86 {
+  transform-origin: 0% 0%;
+  transform: rotate(309.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.5s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-87 {
+  transform-origin: 0% 0%;
+  transform: rotate(313.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-88 {
+  transform-origin: 0% 0%;
+  transform: rotate(316.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-89 {
+  transform-origin: 0% 0%;
+  transform: rotate(320.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.6s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-90 {
+  transform-origin: 0% 0%;
+  transform: rotate(324deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-91 {
+  transform-origin: 0% 0%;
+  transform: rotate(327.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.65s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-92 {
+  transform-origin: 0% 0%;
+  transform: rotate(331.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.6s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-93 {
+  transform-origin: 0% 0%;
+  transform: rotate(334.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.45s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-94 {
+  transform-origin: 0% 0%;
+  transform: rotate(338.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.5s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-95 {
+  transform-origin: 0% 0%;
+  transform: rotate(342deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.85s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-96 {
+  transform-origin: 0% 0%;
+  transform: rotate(345.6deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.75s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-97 {
+  transform-origin: 0% 0%;
+  transform: rotate(349.2deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.25s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-98 {
+  transform-origin: 0% 0%;
+  transform: rotate(352.8deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 0.5s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+.item-99 {
+  transform-origin: 0% 0%;
+  transform: rotate(356.4deg) translate(0.3em, 6em);
+  width: 2px;
+  animation: music 1s backwards infinite;
+  animation-delay: 1.4s;
+  background: linear-gradient(#1f77bd, #1fe5bd);
+}
+
+@keyframes music {
+  0% {
+    height: 10px;
+    opacity: 0;
+  }
+  50% {
+    height: 1px;
+    opacity: 1;
+  }
+  100% {
+    height: 20px;
+    opacity: 1;
+  }
+}
+
+.item-01 {
+    transform-origin: 0% 0%;
+    transform: rotate(3.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-02 {
+    transform-origin: 0% 0%;
+    transform: rotate(7.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.65s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-03 {
+    transform-origin: 0% 0%;
+    transform: rotate(10.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.4s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-04 {
+    transform-origin: 0% 0%;
+    transform: rotate(14.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.8s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-05 {
+    transform-origin: 0% 0%;
+    transform: rotate(18deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.3s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-06 {
+    transform-origin: 0% 0%;
+    transform: rotate(21.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.1s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-07 {
+    transform-origin: 0% 0%;
+    transform: rotate(25.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.4s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-08 {
+    transform-origin: 0% 0%;
+    transform: rotate(28.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.85s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-09 {
+    transform-origin: 0% 0%;
+    transform: rotate(32.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-010 {
+    transform-origin: 0% 0%;
+    transform: rotate(36deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.3s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-011 {
+    transform-origin: 0% 0%;
+    transform: rotate(39.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.55s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-012 {
+    transform-origin: 0% 0%;
+    transform: rotate(43.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.1s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-013 {
+    transform-origin: 0% 0%;
+    transform: rotate(46.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.6s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-014 {
+    transform-origin: 0% 0%;
+    transform: rotate(50.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-015 {
+    transform-origin: 0% 0%;
+    transform: rotate(54deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.25s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-016 {
+    transform-origin: 0% 0%;
+    transform: rotate(57.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-017 {
+    transform-origin: 0% 0%;
+    transform: rotate(61.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.6s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-018 {
+    transform-origin: 0% 0%;
+    transform: rotate(64.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.9s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-019 {
+    transform-origin: 0% 0%;
+    transform: rotate(68.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.8s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-020 {
+    transform-origin: 0% 0%;
+    transform: rotate(72deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.75s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-021 {
+    transform-origin: 0% 0%;
+    transform: rotate(75.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.4s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-022 {
+    transform-origin: 0% 0%;
+    transform: rotate(79.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-023 {
+    transform-origin: 0% 0%;
+    transform: rotate(82.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.9s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-024 {
+    transform-origin: 0% 0%;
+    transform: rotate(86.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-025 {
+    transform-origin: 0% 0%;
+    transform: rotate(90deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.95s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-026 {
+    transform-origin: 0% 0%;
+    transform: rotate(93.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-027 {
+    transform-origin: 0% 0%;
+    transform: rotate(97.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.95s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-028 {
+    transform-origin: 0% 0%;
+    transform: rotate(100.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-029 {
+    transform-origin: 0% 0%;
+    transform: rotate(104.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.2s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-030 {
+    transform-origin: 0% 0%;
+    transform: rotate(108deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.55s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-031 {
+    transform-origin: 0% 0%;
+    transform: rotate(111.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.4s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-032 {
+    transform-origin: 0% 0%;
+    transform: rotate(115.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.25s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-033 {
+    transform-origin: 0% 0%;
+    transform: rotate(118.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-034 {
+    transform-origin: 0% 0%;
+    transform: rotate(122.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.9s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-035 {
+    transform-origin: 0% 0%;
+    transform: rotate(126deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.7s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-036 {
+    transform-origin: 0% 0%;
+    transform: rotate(129.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.95s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-037 {
+    transform-origin: 0% 0%;
+    transform: rotate(133.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.25s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-038 {
+    transform-origin: 0% 0%;
+    transform: rotate(136.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.7s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-039 {
+    transform-origin: 0% 0%;
+    transform: rotate(140.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.65s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-040 {
+    transform-origin: 0% 0%;
+    transform: rotate(144deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.55s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-041 {
+    transform-origin: 0% 0%;
+    transform: rotate(147.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-042 {
+    transform-origin: 0% 0%;
+    transform: rotate(151.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.1s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-043 {
+    transform-origin: 0% 0%;
+    transform: rotate(154.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.1s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-044 {
+    transform-origin: 0% 0%;
+    transform: rotate(158.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.3s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-045 {
+    transform-origin: 0% 0%;
+    transform: rotate(162deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.75s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-046 {
+    transform-origin: 0% 0%;
+    transform: rotate(165.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-047 {
+    transform-origin: 0% 0%;
+    transform: rotate(169.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-048 {
+    transform-origin: 0% 0%;
+    transform: rotate(172.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.3s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-049 {
+    transform-origin: 0% 0%;
+    transform: rotate(176.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.6s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-050 {
+    transform-origin: 0% 0%;
+    transform: rotate(180deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.05s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-051 {
+    transform-origin: 0% 0%;
+    transform: rotate(183.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.25s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-052 {
+    transform-origin: 0% 0%;
+    transform: rotate(187.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.85s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-053 {
+    transform-origin: 0% 0%;
+    transform: rotate(190.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-054 {
+    transform-origin: 0% 0%;
+    transform: rotate(194.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-055 {
+    transform-origin: 0% 0%;
+    transform: rotate(198deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.9s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-056 {
+    transform-origin: 0% 0%;
+    transform: rotate(201.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.25s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-057 {
+    transform-origin: 0% 0%;
+    transform: rotate(205.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-058 {
+    transform-origin: 0% 0%;
+    transform: rotate(208.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-059 {
+    transform-origin: 0% 0%;
+    transform: rotate(212.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.9s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-060 {
+    transform-origin: 0% 0%;
+    transform: rotate(216deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-061 {
+    transform-origin: 0% 0%;
+    transform: rotate(219.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-062 {
+    transform-origin: 0% 0%;
+    transform: rotate(223.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.7s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-063 {
+    transform-origin: 0% 0%;
+    transform: rotate(226.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.4s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-064 {
+    transform-origin: 0% 0%;
+    transform: rotate(230.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.55s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-065 {
+    transform-origin: 0% 0%;
+    transform: rotate(234deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-066 {
+    transform-origin: 0% 0%;
+    transform: rotate(237.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-067 {
+    transform-origin: 0% 0%;
+    transform: rotate(241.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.25s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-068 {
+    transform-origin: 0% 0%;
+    transform: rotate(244.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.95s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-069 {
+    transform-origin: 0% 0%;
+    transform: rotate(248.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.3s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-070 {
+    transform-origin: 0% 0%;
+    transform: rotate(252deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.85s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-071 {
+    transform-origin: 0% 0%;
+    transform: rotate(255.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.3s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-072 {
+    transform-origin: 0% 0%;
+    transform: rotate(259.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.75s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-073 {
+    transform-origin: 0% 0%;
+    transform: rotate(262.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-074 {
+    transform-origin: 0% 0%;
+    transform: rotate(266.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.7s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-075 {
+    transform-origin: 0% 0%;
+    transform: rotate(270deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.05s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-076 {
+    transform-origin: 0% 0%;
+    transform: rotate(273.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-077 {
+    transform-origin: 0% 0%;
+    transform: rotate(277.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.4s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-078 {
+    transform-origin: 0% 0%;
+    transform: rotate(280.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.35s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-079 {
+    transform-origin: 0% 0%;
+    transform: rotate(284.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-080 {
+    transform-origin: 0% 0%;
+    transform: rotate(288deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.15s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-081 {
+    transform-origin: 0% 0%;
+    transform: rotate(291.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.5s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-082 {
+    transform-origin: 0% 0%;
+    transform: rotate(295.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.1s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-083 {
+    transform-origin: 0% 0%;
+    transform: rotate(298.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-084 {
+    transform-origin: 0% 0%;
+    transform: rotate(302.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.5s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-085 {
+    transform-origin: 0% 0%;
+    transform: rotate(306deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.5s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-086 {
+    transform-origin: 0% 0%;
+    transform: rotate(309.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.5s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-087 {
+    transform-origin: 0% 0%;
+    transform: rotate(313.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-088 {
+    transform-origin: 0% 0%;
+    transform: rotate(316.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-089 {
+    transform-origin: 0% 0%;
+    transform: rotate(320.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.6s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-090 {
+    transform-origin: 0% 0%;
+    transform: rotate(324deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-091 {
+    transform-origin: 0% 0%;
+    transform: rotate(327.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.65s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-092 {
+    transform-origin: 0% 0%;
+    transform: rotate(331.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.6s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-093 {
+    transform-origin: 0% 0%;
+    transform: rotate(334.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.45s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-094 {
+    transform-origin: 0% 0%;
+    transform: rotate(338.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.5s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-095 {
+    transform-origin: 0% 0%;
+    transform: rotate(342deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.85s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-096 {
+    transform-origin: 0% 0%;
+    transform: rotate(345.6deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.75s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-097 {
+    transform-origin: 0% 0%;
+    transform: rotate(349.2deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.25s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-098 {
+    transform-origin: 0% 0%;
+    transform: rotate(352.8deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 0.5s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  .item-099 {
+    transform-origin: 0% 0%;
+    transform: rotate(356.4deg) translate(0.3em, 6em);
+    width: 2px;
+    animation: musicc 1s backwards infinite;
+    animation-delay: 1.4s;
+    background: linear-gradient(#1f77bd, #1fe5bd);
+  }
+  
+  @keyframes musicc {
+    0% {
+      height: 10px;
+      opacity: 0;
+    }
+    50% {
+      height: 1px;
+      opacity: 1;
+    }
+  }
